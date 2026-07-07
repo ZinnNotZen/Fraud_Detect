@@ -1,0 +1,3 @@
+As stated in the read me, the data is to large to upload into GitHub. 
+This data is available to the public though, you can find the Kaggle page I downloaded this data from here:
+https://www.kaggle.com/competitions/ieee-fraud-detection/data?select=train_transaction.csv
